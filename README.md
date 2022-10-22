@@ -19,4 +19,4 @@ A aplicação é exposta usando a porta 8080
 
 5 - criar deploy kubernetes
 
-6 - verificar localhost:80
+6 - verificar localhost

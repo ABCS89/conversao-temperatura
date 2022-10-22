@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: conversao
-        image: abcs89/conversao-temperatura:latest
+        image: abcs89/conversao-temperatura:v1
         ports:
         - containerPort: 80
 
